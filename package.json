@@ -1,0 +1,22 @@
+{
+  "name": "eventstest",
+  "version": "0.0.1",
+  "description": "events kennen lernen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clatu/events.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clatu/events/issues"
+  },
+  "homepage": "https://github.com/clatu/events#readme"
+}
